@@ -1,0 +1,363 @@
+
+Development of a GUI Based Java Quiz Application
+Quiz file
+Section A: Arrays Quiz (10 MCQs)
+
+Question 1
+What is an array in Java?
+A. A collection of different data types
+B. A collection of elements of the same type
+C. A loop structure
+D. A conditional statement
+Correct Answer: B
+Question 2
+What is the index of the first element in an array?
+A. 1
+B. -1
+C. 0
+D. 10
+Correct Answer: C
+Question 3
+Which symbol is used to declare an array in Java?
+A. ()
+B. {}
+C. []
+D. <>
+Correct Answer: C
+Question 4
+Which of the following correctly declares an integer array?
+A. int arr[];
+B. array int arr;
+C. arr int[];
+D. int (arr);
+Correct Answer: A
+Question 5
+What will be the length of the following array? int arr[] = new int[5];
+A. 4
+B. 5
+C. 6
+D. 10
+Correct Answer: B
+Question 6
+Which method/property is used to get the length of an array?
+A. length()
+B. size()
+C. length
+D. getLength()
+Correct Answer: C
+Question 7
+Which loop is commonly used to access array elements?
+A. while loop
+B. for loop
+C. do-while loop
+D. All of the above
+Correct Answer: D
+Question 8
+What happens if you access an index outside the array size?
+A. Program stops
+B. ArrayIndexOutOfBoundsException occurs
+C. Compiler error
+D. Nothing happens
+Correct Answer: B
+Question 9
+Which keyword is used to create an array object?
+A. create
+B. new
+C. make
+D. array
+Correct Answer: B
+Question 10
+Arrays in Java are stored in:
+A. Stack memory
+B. Heap memory
+C. CPU register
+D. Disk memory
+Correct Answer: B
+
+Section B: Loops Quiz (10 MCQs)
+Question 1
+What is the purpose of loops in programming?
+A. To store data
+B. To repeat a set of instructions
+C. To declare variables
+D. To define classes
+Correct Answer: B
+Question 2
+Which loop checks the condition before executing the body?
+A. do-while loop
+B. for loop
+C. while loop
+D. Both B and C
+Correct Answer: D
+Question 3
+Which loop executes at least once even if the condition is false?
+A. while loop
+B. do-while loop
+C. for loop
+D. switch statement
+Correct Answer: B
+Question 4
+Which keyword is used to exit a loop?
+A. stop
+B. break
+C. end
+D. continue
+Correct Answer: B
+Question 5
+Which keyword skips the current iteration and moves to the next one?
+A. break
+B. skip
+C. continue
+D. pass
+Correct Answer: C
+Question 6
+Which loop is commonly used when the number of iterations is known?
+A. while loop
+B. do-while loop
+C. for loop
+D. switch loop
+Correct Answer: C
+Question 7
+Which of the following is a valid loop structure in Java?
+A. for
+B. while
+C. do-while
+D. All of the above
+Correct Answer: D
+Question 8
+An infinite loop occurs when:
+A. Condition never becomes false
+B. Condition becomes false
+C. Loop runs once
+D. Program ends
+Correct Answer: A
+Question 9
+Which loop is best for menu-driven programs?
+A. if loop
+B. while loop
+C. switch loop
+D. class loop
+Correct Answer: B
+Question 10
+Which statement is used to repeat a block of code?
+A. condition
+B. loop
+C. variable
+D. object
+Correct Answer: B
+
+Section C: Conditional Statements Quiz (10 MCQs)
+Question 1
+Conditional statements are used to:
+A. Store data
+B. Make decisions in a program
+C. Repeat instructions
+D. Declare variables
+Correct Answer: B
+Question 2
+Which keyword is used for decision making?
+A. loop
+B. if
+C. class
+D. new
+Correct Answer: B
+Question 3
+Which statement provides multiple conditions?
+A. if statement
+B. if-else statement
+C. else-if ladder
+D. loop statement
+Correct Answer: C
+Question 4
+Which statement is used to select one option from many choices?
+A. if
+B. switch
+C. loop
+D. array
+Correct Answer: B
+Question 5
+What symbol is used for equality comparison?
+A. =
+B. ==
+C. !=
+D. <>
+Correct Answer: B
+Question 6
+Which operator represents “not equal to”?
+A. ==
+B. !=
+C. >=
+D. <=
+Correct Answer: B
+Question 7
+Which logical operator means “AND”?
+A. &&
+B. ||
+C. !
+D. ==
+Correct Answer: A
+Question 8
+Which logical operator means “OR”?
+A. &&
+B. ||
+C. !
+D. ==
+Correct Answer: B
+Question 9
+Which block executes when the condition in an if statement is false?
+A. if block
+B. else block
+C. loop block
+D. array block
+Correct Answer: B
+Question 10
+Which statement structure is correct?
+A. if(condition){ }
+B. if condition
+C. if{}
+D. condition if
+Correct Answer: A
+
+Section D: Functions / Methods Quiz (10 MCQs)
+Question 1
+What is a function (method) in Java?
+A. A variable
+B. A block of code that performs a specific task
+C. A loop structure
+D. An array element
+Correct Answer: B
+Question 2
+Which keyword is used to define a method in Java?
+A. function
+B. method
+C. void or return type
+D. define
+Correct Answer: C
+Question 3
+Which of the following is a correct method declaration?
+A. void display()
+B. display void()
+C. method display()
+D. function display()
+Correct Answer: A
+Question 4
+Which keyword is used to return a value from a method?
+A. break
+B. continue
+C. return
+D. exit
+Correct Answer: C
+Question 5
+What is the purpose of methods in programming?
+A. To repeat code
+B. To store data
+C. To organize code into reusable blocks
+D. To declare arrays
+Correct Answer: C
+Question 6
+What is the name of the method that starts execution of a Java program?
+A. run()
+B. start()
+C. main()
+D. begin()
+Correct Answer: C
+Question 7
+Which of the following is the correct main method signature?
+A. public static void main(String args[])
+B. main()
+C. void main
+D. public main()
+Correct Answer: A
+Question 8
+What are parameters in a method?
+A. Variables passed to a method
+B. Loop conditions
+C. Array elements
+D. Output values
+Correct Answer: A
+Question 9
+A method that does not return any value uses which keyword?
+A. null
+B. void
+C. empty
+D. static
+Correct Answer: B
+Question 10
+What is the process of calling a method called?
+A. Method declaration
+B. Method execution
+C. Method invocation
+D. Method storage
+Correct Answer: C
+
+Section E: Object-Oriented Programming Basics Quiz (10 MCQs)
+Question 1
+What does OOP stand for?
+A. Object-Oriented Programming
+B. Object Operating Program
+C. Operational Object Programming
+D. Organized Object Program
+Correct Answer: A
+Question 2
+Which concept allows objects to have properties and behavior?
+A. Looping
+B. Encapsulation
+C. Compilation
+D. Iteration
+Correct Answer: B
+Question 3
+What is a class in Java?
+A. A variable
+B. A blueprint for creating objects
+C. A loop structure
+D. A conditional statement
+Correct Answer: B
+Question 4
+An object is:
+A. A function
+B. An instance of a class
+C. A loop
+D. A compiler
+Correct Answer: B
+Question 5
+Which keyword is used to create an object in Java?
+A. create
+B. object
+C. new
+D. make
+Correct Answer: C
+Question 6
+Which of the following is an example of encapsulation?
+A. Storing data and methods in one class
+B. Repeating a loop
+C. Writing conditional statements
+D. Declaring arrays
+Correct Answer: A
+Question 7
+Inheritance allows a class to:
+A. Repeat code
+B. Use properties and methods of another class
+C. Store arrays
+D. Perform loops
+Correct Answer: B
+Question 8
+Which keyword is used for inheritance in Java?
+A. inherit
+B. extend
+C. extends
+D. implement
+Correct Answer: C
+Question 9
+Polymorphism means:
+A. Many variables
+B. Many forms of a method or object
+C. Many loops
+D. Many classes
+Correct Answer: B
+Question 10
+Which concept hides internal implementation details?
+A. Encapsulation
+B. Looping
+C. Iteration
+D. Compilation
+Correct Answer: A
